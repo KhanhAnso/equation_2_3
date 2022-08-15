@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">projectGiaiPT</string>
+    <string name="name_Main">Giải phương trình</string>
+    <string name="Handle_pt_bac3">Giải phương trình bậc 3</string>
+    <string name="Handle_he_pt">Giải hệ phương trình 2 ẩn</string>
+    <string name="input_pt_bac3_so_a">input number a</string>
+    <string name="input_pt_bac3_so_b">input number b</string>
+    <string name="input_pt_bac3_so_c">input number c</string>
+    <string name="input_pt_bac3_so_d">input number d</string>
+    <string name="giai">Giải</string>
+    <string name="demo_pt_2an_1">a1*X + b1*Y = c1</string>
+    <string name="demo_pt_2an_2">a2*X + b2*Y = c2</string>
+    <string name="name_input_pt_2an">Nhập phương trình</string>
+    <string name="ok">ok</string>
+</resources>
